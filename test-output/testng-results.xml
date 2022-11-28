@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-27T21:12:33 AST" name="Suite" finished-at="2022-11-27T21:12:34 AST" duration-ms="756">
+    <groups>
+    </groups>
+    <test started-at="2022-11-27T21:12:33 AST" name="Test" finished-at="2022-11-27T21:12:34 AST" duration-ms="756">
+      <class name="studentApiTest.GetAPITests">
+        <test-method is-config="true" signature="baseTest()[pri:0, instance:studentApiTest.GetAPITests@71a8adcf]" started-at="2022-11-27T21:12:33 AST" name="baseTest" finished-at="2022-11-27T21:12:33 AST" duration-ms="383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseTest -->
+        <test-method signature="getAPITest()[pri:0, instance:studentApiTest.GetAPITests@71a8adcf]" started-at="2022-11-27T21:12:33 AST" name="getAPITest" finished-at="2022-11-27T21:12:34 AST" duration-ms="736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAPITest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:studentApiTest.GetAPITests@71a8adcf]" started-at="2022-11-27T21:12:34 AST" name="afterSuite" finished-at="2022-11-27T21:12:34 AST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- studentApiTest.GetAPITests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
